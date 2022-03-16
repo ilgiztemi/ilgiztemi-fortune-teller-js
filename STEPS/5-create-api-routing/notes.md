@@ -1,4 +1,0 @@
-- go to [api/employees](http://localhost:3000/api/employees)
-- create routing in app.js
-- create a file for employee.js
-- 
